@@ -1,3 +1,5 @@
+# This is a Tip calculator. It takes the amount of bill, number of person and amount of tip and divide the bill accordingly.
+
 print("Welcome to tip Calculator!")
 bill = float(input("What was the amount of the bill? $"))
 tip = int(input("How much tip would you like to give? 10, 12, or 15? "))
