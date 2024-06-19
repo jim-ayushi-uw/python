@@ -1,3 +1,5 @@
+# In this game you will guess the follower count of various instagram account of celebs. If you will be able to guess the highest follower count then you get a score.
+
 import random
 from higher_data import data
 from higher_art import logo, vs
