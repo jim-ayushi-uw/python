@@ -1,3 +1,5 @@
+#This is a blind Binding auction game. Here, bidders bids blindly wothout knowing the price of other bidders and the highest one wins.
+
 import os
 
 def clear_screen():
