@@ -6,6 +6,30 @@ data = [
         'country': 'United States'
     },
     {
+        'name': 'BTS',
+        'follower_count': 75,
+        'description': 'K-POP Boy Band',
+        'country': 'South Korea'
+    },
+    {
+        'name': 'Seventeen',
+        'follower_count': 15,
+        'description': 'K-POP Boy Band',
+        'country': 'South Korea'
+    },
+    {
+        'name': 'Stray Kids',
+        'follower_count': 13,
+        'description': 'K-POP Boy Band',
+        'country': 'South Korea'
+    },
+    {
+        'name': 'Instagram',
+        'follower_count': 346,
+        'description': 'Social media platform',
+        'country': 'United States'
+    },
+    {
         'name': 'Cristiano Ronaldo',
         'follower_count': 215,
         'description': 'Footballer',
