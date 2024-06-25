@@ -1,3 +1,6 @@
+#This is a treasure island game where you find a treasure
+
+
 print('''
 *******************************************************************************
           |                   |                  |                     |
